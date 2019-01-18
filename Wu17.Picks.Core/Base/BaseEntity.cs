@@ -8,5 +8,6 @@ namespace Wu17.Picks.Core.Base
     {
         public Guid Id { get; set; }
         public DateTime DateCreated { get; set; }
+        public bool IsDeleted { get; set; }
     }
 }

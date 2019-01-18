@@ -10,4 +10,12 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.1.4" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Repositories\Implemetations\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Wu17.Picks.Core\Wu17.Picks.Core.csproj" />
+  </ItemGroup>
+
 </Project>

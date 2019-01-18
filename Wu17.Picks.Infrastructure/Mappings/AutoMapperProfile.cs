@@ -7,6 +7,6 @@ namespace Wu17.Picks.Infrastructure.Mappings
 {
     public class AutoMapperProfile: Profile
     {
-        // CreateMap<Application, ApplicationViewModel>().ReverseMap();
+        //CreateMap<Application, ApplicationViewModel>().ReverseMap();
     }
 }
