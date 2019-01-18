@@ -10,6 +10,7 @@ namespace Wu17.Picks.Web
 {
     public class Startup
     {
+        // test change
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
