@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/Wu17.Picks.Web/Wu17.Picks.Web.csproj"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}
